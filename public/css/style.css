@@ -1,0 +1,10 @@
+body {
+  background: url('../images/barberly.jpg');
+  background-size: cover;
+}
+header {
+  margin:auto;
+}
+h1 {
+  margin: auto;
+}
